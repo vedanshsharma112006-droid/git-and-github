@@ -1,0 +1,1 @@
+jab bhai  app  ek floder  bnaate hai git ko kuch  nahi pata  aapke folder ke baare mein, isliye app waha pe git ko initialize karte ho,
